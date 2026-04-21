@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "", // will be updated after deployment
+  website: "https://violet-blog.pages.dev/", // temporary URL for build
   author: "Violet",
   profile: "",
   desc: "爱情亘古不变，紫罗兰永恒花园",
